@@ -8,18 +8,19 @@ Customer segmentation analysis
 Revenue and product performance insights
 Interactive Power BI dashboard visualization
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Python
 Pandas
 PostgreSQL
 Power BI
 
-📊 Key Insights
-Revenue comparison by gender and age group
-Subscriber vs non-subscriber spending behavior
-Top-rated and best-selling products
-Discount impact on customer purchases
-Shipping type and spending analysis
-📈 Outcome
+📊 Key Insights: 
+-Revenue comparison by gender and age group
+-Subscriber vs non-subscriber spending behavior
+-Top-rated and best-selling products
+-Discount impact on customer purchases
+-Shipping type and spending analysis
+
+📈 Outcome:
 
 The project provides actionable business recommendations to improve customer loyalty, optimize discount strategies, and enhance targeted marketing campaigns.
