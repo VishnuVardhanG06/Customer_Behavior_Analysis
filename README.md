@@ -7,11 +7,13 @@ SQL-based business analysis in PostgreSQL
 Customer segmentation analysis
 Revenue and product performance insights
 Interactive Power BI dashboard visualization
+
 🛠️ Technologies Used
 Python
 Pandas
 PostgreSQL
 Power BI
+
 📊 Key Insights
 Revenue comparison by gender and age group
 Subscriber vs non-subscriber spending behavior
